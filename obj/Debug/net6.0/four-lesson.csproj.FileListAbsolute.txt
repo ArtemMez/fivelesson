@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\учеба it\two\four-lesson\bin\Debug\net6.0\four-lesson.exe
+C:\Users\User\Desktop\учеба it\two\four-lesson\bin\Debug\net6.0\four-lesson.deps.json
+C:\Users\User\Desktop\учеба it\two\four-lesson\bin\Debug\net6.0\four-lesson.runtimeconfig.json
+C:\Users\User\Desktop\учеба it\two\four-lesson\bin\Debug\net6.0\four-lesson.dll
+C:\Users\User\Desktop\учеба it\two\four-lesson\bin\Debug\net6.0\four-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.AssemblyInfo.cs
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.dll
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\refint\four-lesson.dll
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.pdb
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\four-lesson.genruntimeconfig.cache
+C:\Users\User\Desktop\учеба it\two\four-lesson\obj\Debug\net6.0\ref\four-lesson.dll
